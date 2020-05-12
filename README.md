@@ -30,7 +30,7 @@
 ### 2020
 * Dong et al, Multi-Scale Boosted Dehazing Network with Dense Feature Fusion. (CVPR) [[paper](https://arxiv.org/abs/2004.13388)][[code](https://github.com/BookerDeWitt/MSBDN-DFF)]
 * Li et al, Learning to Dehaze From Realistic Scene with A Fast Physics Based Dehazing Network. [[paper](https://arxiv.org/abs/2004.08554)][[code](https://github.com/liruoteng/3DRealisticSceneDehaze)]
-* Shao et al, Domain Adaptation for Image Dehazing. (CVPR) [paper][code][[web](https://sites.google.com/site/renwenqi888)]
+* Shao et al, Domain Adaptation for Image Dehazing. (CVPR) [[paper](https://arxiv.org/abs/2005.04668)][code][[web](https://sites.google.com/site/renwenqi888)]
 * Wu et al, Accurate Transmission Estimation for Removing Haze and Noise from a Single Image. (TIP) [[paper](https://ieeexplore.ieee.org/document/8891906)][code]
 * Ren et al, Single Image Dehazing via Multi-Scale Convolutional Neural Networks with Holistic Edges. (IJCV) [[paper](https://link.springer.com/article/10.1007%2Fs11263-019-01235-8)][code]
 * Dong et al, FD-GAN: Generative Adversarial Networks with Fusion-discriminator for Single Image Dehazing. [[paper](https://arxiv.org/abs/2001.06968)][[code](https://github.com/WeilanAnnn/FD-GAN)]
